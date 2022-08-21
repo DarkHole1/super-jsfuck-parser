@@ -16,6 +16,7 @@ npm install --global elm
 elm make src/Main.elm --output=dist/index.js
 ```
 3. If error occured on previous step, make issue/PR :)
+4. Open `dist/index.html` in browser
 
 ## TODO
 * More rules for simplifing
