@@ -1,5 +1,6 @@
 Super JSFuck parser β
 =====
+[Try it online](https://darkhole1.github.io/super-jsfuck-parser/dist/)
 ## Features
 * Honestly parses JSFuck code: no hacks with string manipulation
 * Simplifies it: you can ever get you code without executing JSFuck directly
